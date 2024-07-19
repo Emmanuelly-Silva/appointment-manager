@@ -15,11 +15,14 @@
 * [Licença](#licença)
 
 ## Descrição do projeto
+<p align="justify">
 Este projeto é uma aplicação de gerenciamento de consultas médicas. A aplicação permite o agendamento, atualização, exclusão e visualização de consultas agendadas, com funcionalidades adicionais para validação de dados e controle de horários disponíveis.
+</p>
 
 ## Layout da Aplicação
+
 <p align="center">
-    
+    <img src="images/layout.png">
 </p>
 
 ## Acesso ao Projeto
