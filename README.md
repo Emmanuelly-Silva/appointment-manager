@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-<h1 align="center" id="titulo">Gerenciamento de consultas</h1>
+<h1 align="center" id="titulo">Appointment manager</h1>
 
 <p align="center" id="badges">
 <img src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-GREEN?style=for-the-badge">
@@ -72,4 +72,6 @@ Siga as etapas abaixo:
 
 ## Licença
 
-Copyright :copyright: 2024 - Agendamento de consultas
+The [MIT License](LICENSE) (MIT)
+
+Copyright :copyright: 2024 - Appointment manager
