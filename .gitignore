@@ -1,2 +1,3 @@
 venv/
 appointments_management.db
+__pycache__/
