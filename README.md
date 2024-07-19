@@ -27,12 +27,12 @@ Este projeto é uma aplicação de gerenciamento de consultas médicas. A aplica
 Siga as etapas abaixo:
 1. No terminal, clone o projeto:
     ```
-    git clone <URL_do_repositório_colocar_quando_criar>
+    git clone https://github.com/Emmanuelly-Silva/appointment-manager.git
     ```
 
 2. Mude para o diretório do projeto clonado:
     ```
-    cd <nome_do_repositório>
+    cd appointment-manager
     ```
 
 3. Crie um ambiente virtual para isolar as dependências do projeto:
