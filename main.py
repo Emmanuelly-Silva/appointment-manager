@@ -248,7 +248,6 @@ class Application:
                 self.available_times[selected_specialty][selected_date] = weekday_times
         return self.available_times[selected_specialty][selected_date]
 
-
     def info_validations(self):
         def phone_validation(phone):
             regexp = re.compile(r'^(\(\d{2}\)|\d{2})\s?(\d{4,5})-?(\d{4})$')

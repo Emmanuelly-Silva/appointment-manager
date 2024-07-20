@@ -2,6 +2,7 @@ import sqlite3 as lite
 
 con = lite.connect('appointments_management.db')
 
+
 def create_form_data(info):
     with con:
         cur = con.cursor()
