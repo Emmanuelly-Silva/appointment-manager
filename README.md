@@ -1,16 +1,14 @@
-<a id="readme-top"></a>
-
 <h1 align="center" id="titulo">Appointment manager</h1>
 
 <p align="center" id="badges">
 <img src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-GREEN?style=for-the-badge">
-<img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LICENSE-MIT-GREEN?style=for-the-badge"/>
 </p>
 
 ## Índice 
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Layout da Aplicação](#layout-do-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Descrição do projeto](#descrição-do-projeto)
+* [Layout da aplicação](#layout-da-aplicação)
+* [Acesso ao projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Licença](#licença)
 
@@ -19,13 +17,13 @@
 Este projeto é uma aplicação de gerenciamento de consultas médicas. A aplicação permite o agendamento, atualização, exclusão e visualização de consultas agendadas, com funcionalidades adicionais para validação de dados e controle de horários disponíveis.
 </p>
 
-## Layout da Aplicação
+## Layout da aplicação
 
 <p align="center">
     <img src="images/layout.png">
 </p>
 
-## Acesso ao Projeto
+## Acesso ao projeto
 
 Siga as etapas abaixo:
 1. No terminal, clone o projeto:
